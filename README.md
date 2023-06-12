@@ -1,4 +1,4 @@
-# [hsBUPT.github.io]()
+# [xiaohe123awa.github.io]()
 
 -----------------------------------------------------------------------------------------------
 
@@ -10,9 +10,8 @@
 
 **Search boxes and styles have been added to the original author, ~~and click events and search engines will be added later.~~** **Join the search engine and optimize the search experience.Join the search engine and optimize the search experience.**
 
-![search-btn](https://img1.imgtp.com/2023/06/03/7iz95ogk.png)
 
-![search-line](https://img1.imgtp.com/2023/06/03/bG5fqM9L.png)
+
 
 ### Tips
 
